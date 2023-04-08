@@ -1,0 +1,53 @@
+[21-Mar-2023 12:38:56 Europe/Berlin] PHP Warning:  Undefined array key "time_npc" in C:\xampp\htdocs\dex_pokemon\criar_npc.php on line 44
+[21-Mar-2023 12:38:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in C:\xampp\htdocs\dex_pokemon\criar_npc.php:47
+Stack trace:
+#0 C:\xampp\htdocs\dex_pokemon\criar_npc.php(47): mysqli_query(Object(mysqli), 'INSERT INTO npc...')
+#1 {main}
+  thrown in C:\xampp\htdocs\dex_pokemon\criar_npc.php on line 47
+[21-Mar-2023 12:39:31 Europe/Berlin] PHP Warning:  Undefined array key "time_npc" in C:\xampp\htdocs\dex_pokemon\criar_npc.php on line 44
+[21-Mar-2023 12:39:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in C:\xampp\htdocs\dex_pokemon\criar_npc.php:47
+Stack trace:
+#0 C:\xampp\htdocs\dex_pokemon\criar_npc.php(47): mysqli_query(Object(mysqli), 'INSERT INTO npc...')
+#1 {main}
+  thrown in C:\xampp\htdocs\dex_pokemon\criar_npc.php on line 47
+[21-Mar-2023 12:39:33 Europe/Berlin] PHP Warning:  Undefined array key "time_npc" in C:\xampp\htdocs\dex_pokemon\criar_npc.php on line 44
+[21-Mar-2023 12:39:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in C:\xampp\htdocs\dex_pokemon\criar_npc.php:47
+Stack trace:
+#0 C:\xampp\htdocs\dex_pokemon\criar_npc.php(47): mysqli_query(Object(mysqli), 'INSERT INTO npc...')
+#1 {main}
+  thrown in C:\xampp\htdocs\dex_pokemon\criar_npc.php on line 47
+[21-Mar-2023 12:39:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sfdas' in 'field list' in C:\xampp\htdocs\dex_pokemon\criar_npc.php:47
+Stack trace:
+#0 C:\xampp\htdocs\dex_pokemon\criar_npc.php(47): mysqli_query(Object(mysqli), 'INSERT INTO npc...')
+#1 {main}
+  thrown in C:\xampp\htdocs\dex_pokemon\criar_npc.php on line 47
+[21-Mar-2023 12:41:25 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sfdas' in 'field list' in C:\xampp\htdocs\dex_pokemon\criar_npc.php:47
+Stack trace:
+#0 C:\xampp\htdocs\dex_pokemon\criar_npc.php(47): mysqli_query(Object(mysqli), 'INSERT INTO npc...')
+#1 {main}
+  thrown in C:\xampp\htdocs\dex_pokemon\criar_npc.php on line 47
+[21-Mar-2023 12:55:02 Europe/Berlin] PHP Warning:  Undefined array key "nome_npv" in C:\xampp\htdocs\dex_pokemon\ver_npc.php on line 111
+[21-Mar-2023 13:08:37 Europe/Berlin] PHP Warning:  Undefined array key "types" in C:\xampp\htdocs\dex_pokemon\novo_poke.php on line 36
+[21-Mar-2023 13:08:37 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\dex_pokemon\novo_poke.php on line 36
+[21-Mar-2023 13:08:37 Europe/Berlin] PHP Warning:  Undefined array key "stats" in C:\xampp\htdocs\dex_pokemon\novo_poke.php on line 44
+[21-Mar-2023 13:08:37 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\dex_pokemon\novo_poke.php on line 44
+[21-Mar-2023 13:08:37 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in C:\xampp\htdocs\dex_pokemon\novo_poke.php:44
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\dex_pokemon\novo_poke.php on line 44
+[21-Mar-2023 13:19:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\dex_pokemon\perfil.php on line 323
+[21-Mar-2023 13:37:00 Europe/Berlin] PHP Warning:  Undefined variable $id in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 123
+[21-Mar-2023 13:38:53 Europe/Berlin] PHP Warning:  Undefined array key "pt_mundial" in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 44
+[21-Mar-2023 13:38:53 Europe/Berlin] PHP Warning:  Undefined array key "pd" in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 45
+[21-Mar-2023 13:38:53 Europe/Berlin] PHP Warning:  Undefined variable $id in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 123
+[21-Mar-2023 13:39:50 Europe/Berlin] PHP Warning:  Undefined array key "pt_mundial" in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 44
+[21-Mar-2023 13:39:50 Europe/Berlin] PHP Warning:  Undefined array key "pd" in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 45
+[21-Mar-2023 13:39:50 Europe/Berlin] PHP Warning:  Undefined variable $id in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 123
+[21-Mar-2023 13:39:53 Europe/Berlin] PHP Warning:  Undefined array key "pt_mundial" in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 44
+[21-Mar-2023 13:39:53 Europe/Berlin] PHP Warning:  Undefined array key "pd" in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 45
+[21-Mar-2023 13:39:53 Europe/Berlin] PHP Warning:  Undefined variable $id in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 123
+[21-Mar-2023 13:39:57 Europe/Berlin] PHP Warning:  Undefined variable $id in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 123
+[21-Mar-2023 14:13:34 Europe/Berlin] PHP Warning:  Undefined variable $id in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 123
+[21-Mar-2023 14:35:55 Europe/Berlin] PHP Warning:  Undefined variable $id in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 123
+[21-Mar-2023 14:36:07 Europe/Berlin] PHP Warning:  Undefined variable $id in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 123
+[21-Mar-2023 14:36:16 Europe/Berlin] PHP Warning:  Undefined variable $id in C:\xampp\htdocs\dex_pokemon\editar_per.php on line 123
